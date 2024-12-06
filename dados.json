@@ -1,5 +1,8 @@
 {
-  "name": "Edson",
-  "age": 50,
-  "skills": ["Flutter", "Dart", "GitHub API"]
+"data": "11/08/2024" 
+"timea":"Flamengo",
+"resultado":"1 X 1",
+"timeb":"Palmeiras",
+"campeonato":"Campeonato Brasileiro",
+"local":"Maracanã"
 }
